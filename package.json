@@ -1,0 +1,29 @@
+{
+  "name": "iljimaekk1",
+  "version": "1.0.0",
+  "description": "Now you see me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iljimaekk/iljimaekk1"
+  },
+  "author": "iljimaekk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iljimaekk/iljimaekk1/issues"
+  },
+  "homepage": "https://github.com/iljimaekk/iljimaekk1#readme",
+  "dependencies": {
+    "iljimaekk1": "^1.0.0",
+    "longan4573": "^1.0.0",
+	"tonhue456": "^1.0.0",
+	"binhtam45": "^1.0.0",
+	"haam8766": "^1.0.0",
+	"pham557": "^1.0.0",
+	"hanma46": "^1.0.0",
+	"phamduc75": "^1.0.0"
+  }
+}
